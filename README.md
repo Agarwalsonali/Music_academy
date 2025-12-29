@@ -36,7 +36,9 @@ npm install
 3. Run the development server
 npm run dev
 
-🙌 Learning Outcomes
+---
+
+## 🙌 Learning Outcomes
 
 - Practical experience with Next.js
 
