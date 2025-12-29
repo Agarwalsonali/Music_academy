@@ -27,13 +27,13 @@ A modern **Music Academy web application** built using **Next.js** that allows s
 ## ⚙️ Installation & Setup
 
 1. **Clone the repository**
-git clone https://github.com/Agarwalsonali/Music_academy.git
+- git clone https://github.com/Agarwalsonali/Music_academy.git
 
 2. Install dependencies
-npm install
+- npm install
 
 3. Run the development server
-npm run dev
+- npm run dev
 
 ---
 
