@@ -27,7 +27,6 @@ A modern **Music Academy web application** built using **Next.js** that allows s
 ## ⚙️ Installation & Setup
 
 1. **Clone the repository**
-```bash
 git clone https://github.com/Agarwalsonali/Music_academy.git
 
 2. Install dependencies
